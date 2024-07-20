@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://umbindal.github.io/sitemap
+Sitemap: https://umbindal.github.io/app/sitemap
+Sitemap: https://umbindal.github.io/assets/sitemap
+Sitemap: https://umbindal.github.io/css/sitemap
+Sitemap: https://umbindal.github.io/includes/sitemap
+Sitemap: https://umbindal.github.io/item/sitemap
+Sitemap: https://umbindal.github.io/src/sitemap
